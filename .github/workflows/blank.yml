@@ -1,4 +1,4 @@
-name: Azure storage account deployment with ARM template
+name: Azure storage account deployment with ARM template 1
 
 on:
   push:
